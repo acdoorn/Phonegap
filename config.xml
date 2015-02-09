@@ -12,6 +12,7 @@
   <preference name="stay-in-webview" value="false"/>
   <preference name="ios-statusbarstyle" value="black-opaque"/>
   <preference name="detect-data-types" value="true"/>
+  <preference name="SplashScreenDelay" value="3000"/>
   <preference name="exit-on-suspend" value="false"/>
   <preference name="show-splash-screen-spinner" value="true"/>
   <preference name="auto-hide-splash-screen" value="false"/>
@@ -68,6 +69,5 @@
     <gap:splash src="res/screen/android/screen-mdpi-portrait.png" density="port-mdpi"/>
     <gap:splash src="res/screen/android/screen-xhdpi-portrait.png" density="port-xhdpi"/>
 
-</platform>
   <access origin="*"/>
 </widget>
